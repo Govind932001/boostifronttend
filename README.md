@@ -4,7 +4,7 @@ I'm Govind Kumawat, a Full Stack Developer with a dedicated team of 10 professio
 
 We offer milestone-based project development for clients, ensuring quality and timely delivery. If you're looking to hire a versatile, talented team for your next project, feel free to reach out.
 
-📧 Contact me at: mp17govind96@gmail.com
+# 📧 Contact me at: mp17govind96@gmail.com
 
 Follow me on:
 
